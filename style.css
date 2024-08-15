@@ -9,7 +9,7 @@ h2 {
     color: rgb(173, 88, 238);
     text-align: center;
     padding: 10px;
-    font-size: 50px;
+    font-size: 6vw;
 }
 body {
     background-color: rgb(62, 62, 62);
@@ -35,7 +35,7 @@ body {
     width: 100%;
     background-color: rgb(126, 79, 184);
     height: 100%;
-    font-size: 50px;
+    font-size: 6vw;
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
     text-decoration: none;
