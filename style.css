@@ -41,6 +41,7 @@ body {
     text-decoration: none;
     overflow: hidden;
     border-radius: 10px;
+    color: black;
 }
 .tabs:hover {
     background-color: rgb(102, 57, 153);
