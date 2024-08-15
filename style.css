@@ -35,7 +35,7 @@ body {
     width: 100%;
     background-color: rgb(126, 79, 184);
     height: 100%;
-    font-size: 6vw;
+    font-size: 4vw;
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
     text-decoration: none;
