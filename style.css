@@ -25,7 +25,7 @@ body {
     display: flex;
     justify-content: stretch;
     align-items: center;
-    height: 25vh;
+    height: 30vh;
     width: 90vw;
 }
 .container {
