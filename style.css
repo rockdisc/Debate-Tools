@@ -40,6 +40,7 @@ body {
     transition-duration: 0.4s;
     text-decoration: none;
     overflow: hidden;
+    border-radius: 10px;
 }
 .tabs:hover {
     background-color: rgb(102, 57, 153);
